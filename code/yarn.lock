@@ -5848,6 +5848,7 @@ __metadata:
     "@types/color-convert": "npm:^2.0.0"
     color-convert: "npm:^2.0.1"
     es-toolkit: "npm:^1.22.0"
+    github-slugger: "npm:^2.0.0"
     markdown-to-jsx: "npm:^7.4.5"
     memoizerific: "npm:^1.11.3"
     polished: "npm:^4.2.2"
